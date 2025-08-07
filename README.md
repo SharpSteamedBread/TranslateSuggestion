@@ -6,4 +6,4 @@
 </rb>
 
 CAT tool을 이용하여 번역을 진행합니다.
-[matecat](https://www.matecat.com/)
+[CAT: matecat](https://www.matecat.com/)
